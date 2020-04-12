@@ -1,5 +1,4 @@
 Change 1
-<<<<<<< HEAD
 Feature2 - change2 // Feature1 - Change2
 Feature2 - change3 // Feature1 - Change3
-Feature1 - Change2
+Feature1 - Change4
